@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siyam's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #fff;
+            background-color: #000;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #f0f0f0;
+        }
+        p {
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Siyam</h1>
+        <p>Editor</p>
+    </header>
+    <div class="container">
+        <section id="about-me">
+            <h2>About Me</h2>
+            <p>Hello! My name is Siyam. I am an editor with a passion for refining and perfecting content. Whether it's text, video, or multimedia, I strive to enhance clarity and impact through careful editing.</p>
+        </section>
+    </div>
+</body>
+</html>
